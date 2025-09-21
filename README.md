@@ -7,8 +7,6 @@ Me gusta aprender nuevas herramientas, montar laboratorios en mi homelab y exper
 ---
 
 ## 🔧 Tecnologías que uso
-
-## 🔧 Tecnologías que uso
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
