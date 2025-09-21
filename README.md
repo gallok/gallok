@@ -1,5 +1,8 @@
 # 👋 Hola, soy Gallok
 
+💻 Entusiasta de **DevOps**, **Cloud** y **Kubernetes**.  
+Me gusta aprender nuevas herramientas, montar laboratorios en mi homelab y experimentar con **observabilidad, seguridad y automatización**.
+
 🚀 DevOps | 🐧 Linux Enthusiast | ☁️ Cloud & Kubernetes | 📊 Observabilidad
 
 ---
