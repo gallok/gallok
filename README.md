@@ -46,7 +46,7 @@ Me gusta aprender nuevas herramientas, montar laboratorios en mi homelab y exper
 - GitOps con ArgoCD  
 - Packer y Terraform para IaC  
 - Kafka para microservicios
-- 
+  
   ---
 ## 🌐 Encuéntrame en
 - 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
