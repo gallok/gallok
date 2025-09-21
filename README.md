@@ -51,4 +51,4 @@ Me gusta aprender nuevas herramientas, montar laboratorios en mi homelab y exper
 ## 🌐 Encuéntrame en
 - 💼 [LinkedIn](https://www.linkedin.com/in/josé-riquelme-ruiz/)  
 - 📝 [Blog personal](https://tusitio.com)  
-- 🐦 [Twitter](https://twitter.com/gallok)
+- 🐦 [Twitter](https://twitter.com/Galliko)
