@@ -31,3 +31,8 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
 - 📝 [Blog personal](https://tusitio.com)  
 - 🐦 [Twitter](https://twitter.com/tuusuario)  
+
+---
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
