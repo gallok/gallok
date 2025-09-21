@@ -26,11 +26,12 @@ Me gusta aprender nuevas herramientas, montar laboratorios en mi homelab y exper
 ---
 
 ## 📌 Proyectos destacados
-- 🔹 [Laboratorio Kubernetes con MicroK8s](https://github.com/...)  
-- 🔹 [ELK Stack en Docker Compose](https://github.com/...)  
-- 🔹 [Infraestructura en Proxmox con Terraform](https://github.com/...)
 - 🔹 [Playbooks de Ansible](https://github.com/...)
-
+- 🐳 **ELK Stack + Traefik** en Docker Compose [🔗](https://github.com/...)  
+- ☸️ **Laboratorio Kubernetes (MicroK8s y K3s)** con HA, Ingress y MetalLB [🔗](https://github.com/...)  
+- 🖥️ **Automatización con Terraform + Proxmox** [🔗](https://github.com/...)  
+- 📊 **Monitoring con Grafana, Loki y Promtail** [🔗](https://github.com/...)
+  
 ---
 
 ## 📈 Estadísticas
@@ -40,6 +41,13 @@ Me gusta aprender nuevas herramientas, montar laboratorios en mi homelab y exper
 
 ---
 
+## 🌱 Lo que estoy aprendiendo ahora
+- Git y GitHub desde cero hasta avanzado  
+- GitOps con ArgoCD  
+- Packer y Terraform para IaC  
+- Kafka para microservicios
+- 
+  ---
 ## 🌐 Encuéntrame en
 - 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
 - 📝 [Blog personal](https://tusitio.com)  
