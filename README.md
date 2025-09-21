@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Gallok
 
-<!--
-**gallok/gallok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps | 🐧 Linux Enthusiast | ☁️ Cloud & Kubernetes | 📊 Observabilidad
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías que uso
+- **Lenguajes**: Python, Bash, Powershell
+- **DevOps**: Kubernetes, Docker, Terraform, Ansible
+- **Observabilidad**: ELK Stack, Grafana, Prometheus
+- **Otros**: Git, Traefik, Authelia, Nginx, haproxy, Jboss/Wildfly ...
+
+---
+
+## 📌 Proyectos destacados
+- 🔹 [Laboratorio Kubernetes con MicroK8s](https://github.com/...)  
+- 🔹 [ELK Stack en Docker Compose](https://github.com/...)  
+- 🔹 [Infraestructura en Proxmox con Terraform](https://github.com/...)
+
+---
+
+## 📈 Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gallok&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gallok&layout=compact&theme=radical)
+
+---
+
+## 🌐 Encuéntrame en
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
+- 📝 [Blog personal](https://tusitio.com)  
+- 🐦 [Twitter](https://twitter.com/tuusuario)  
