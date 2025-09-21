@@ -16,6 +16,7 @@
 - 🔹 [Laboratorio Kubernetes con MicroK8s](https://github.com/...)  
 - 🔹 [ELK Stack en Docker Compose](https://github.com/...)  
 - 🔹 [Infraestructura en Proxmox con Terraform](https://github.com/...)
+- 🔹 [Playbooks de Ansible](https://github.com/...)
 
 ---
 
