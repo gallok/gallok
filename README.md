@@ -46,6 +46,7 @@ Me gusta aprender nuevas herramientas, montar laboratorios en mi homelab y exper
 - GitOps con ArgoCD  
 - Packer y Terraform para IaC  
 - Kafka para microservicios
+- Kubernetes como orquestador de contenedores
   
   ---
 ## 🌐 Encuéntrame en
